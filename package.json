@@ -1,4 +1,11 @@
 {
   "name": "arbuz",
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@1.22.22",
+  "version": "1.0.0",
+  "description": "basic node.js http server",
+  "main": "index.mjs",
+  "repository": "https://github.com/slashpotato/arbuz",
+  "author": "slashpotato <slashpotato@proton.me>",
+  "license": "GPL-3.0",
+  "private": true
 }
